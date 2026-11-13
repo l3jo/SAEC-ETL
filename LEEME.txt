@@ -1,0 +1,28 @@
+SAEC PORTABLE — Sistema de Análisis de Enfermedades Crónicas
+==============================================================
+
+No necesita instalar nada: Python 3.12, PostgreSQL 16 y todas las librerías están dentro de esta carpeta.
+
+ABRIR
+  Windows: doble clic en  SAEC.bat
+  Linux:   ./saec.sh
+
+  La primera vez crea la base de datos en la carpeta datos_pg (tarda alrededor de un minuto).
+  Usuario inicial:  admin@saec.local    Contraseña:  Admin2026   (cámbiela en Usuarios)
+
+PROBAR CON DATOS DE DEMOSTRACIÓN
+  En la aplicación: Proceso ETL -> "Generar datos de demostración" -> Ejecutar ETL
+  o en "SAEC - consola.bat":  python main.py demo
+
+LLEVAR A OTRO EQUIPO
+  1. Cierre SAEC (al cerrarlo se detiene la base de datos).
+  2. Copie la carpeta completa (memoria USB, disco externo o red). Los datos viajan con ella.
+  Recomendado: unidad NTFS o exFAT con al menos 1 GB libre. No ejecute dos copias de la misma carpeta a la vez.
+  Si SAEC se cerró de forma inesperada, use "SAEC - detener base de datos.bat" antes de copiar.
+
+COPIA DE SEGURIDAD
+  Con SAEC cerrado, copie la carpeta datos_pg (y config/settings.ini, que guarda la contraseña generada).
+
+SEGURIDAD
+  La base solo acepta conexiones del propio equipo (127.0.0.1) y usa una contraseña aleatoria
+  generada en el primer arranque (config/settings.ini).

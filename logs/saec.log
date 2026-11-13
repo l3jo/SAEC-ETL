@@ -1,0 +1,7 @@
+2026-11-12 21:04:10,826 INFO matplotlib.font_manager: generated new fontManager
+2026-11-12 21:04:10,932 INFO matplotlib.font_manager: generated new fontManager
+2026-11-12 21:08:19,370 INFO saec.db: Base de datos saec creada
+2026-11-12 21:08:19,505 INFO saec.db: Ejecutado 01_schema.sql
+2026-11-12 21:08:19,528 INFO saec.db: Ejecutado 02_vistas.sql
+2026-11-12 21:08:19,536 INFO saec.db: Ejecutado 03_semillas.sql
+2026-11-12 21:16:48,084 INFO saec.portable: PostgreSQL portable detenido

@@ -1,0 +1,1 @@
+C:/SAEC_Portable_windows/runtime/pgsql/bin/postgres.exe "-D" "C:/SAEC_Portable_windows/datos_pg" "-p" "54329"

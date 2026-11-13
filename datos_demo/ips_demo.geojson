@@ -1,0 +1,165 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.0625,
+     4.6405
+    ]
+   },
+   "properties": {
+    "codigo_habilitacion": "1100190001",
+    "nombre_prestador": "IPS DEMO CHAPINERO CENTRO",
+    "direccion": "CL 53 9 20",
+    "nombre_localidad": "CHAPINERO"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.06,
+     4.6485
+    ]
+   },
+   "properties": {
+    "codigo_habilitacion": "1100190002",
+    "nombre_prestador": "IPS DEMO LOURDES",
+    "direccion": "CL 63 10 15",
+    "nombre_localidad": "CHAPINERO"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.064,
+     4.637
+    ]
+   },
+   "properties": {
+    "codigo_habilitacion": "1100190003",
+    "nombre_prestador": "IPS DEMO MARLY",
+    "direccion": "CL 50 11 30",
+    "nombre_localidad": "CHAPINERO"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.056,
+     4.6555
+    ]
+   },
+   "properties": {
+    "codigo_habilitacion": "1100190004",
+    "nombre_prestador": "IPS DEMO QUINTA CAMACHO",
+    "direccion": "CL 70 9 40",
+    "nombre_localidad": "CHAPINERO"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.048,
+     4.6765
+    ]
+   },
+   "properties": {
+    "codigo_habilitacion": "1100190005",
+    "nombre_prestador": "IPS DEMO EL CHICO",
+    "direccion": "CL 90 11 10",
+    "nombre_localidad": "CHAPINERO"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.05,
+     4.656
+    ]
+   },
+   "properties": {
+    "codigo_habilitacion": "1100190006",
+    "nombre_prestador": "IPS DEMO ROSALES",
+    "direccion": "CL 72 5 50",
+    "nombre_localidad": "CHAPINERO"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.06,
+     4.6385
+    ]
+   },
+   "properties": {
+    "codigo_habilitacion": "1100190007",
+    "nombre_prestador": "IPS DEMO PARDO RUBIO",
+    "direccion": "CL 47 3 20",
+    "nombre_localidad": "CHAPINERO"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.049,
+     4.6705
+    ]
+   },
+   "properties": {
+    "codigo_habilitacion": "1100190008",
+    "nombre_prestador": "IPS DEMO LA CABRERA",
+    "direccion": "CL 85 8 30",
+    "nombre_localidad": "CHAPINERO"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.035,
+     4.686
+    ]
+   },
+   "properties": {
+    "codigo_habilitacion": "1100190009",
+    "nombre_prestador": "IPS DEMO SAN LUIS",
+    "direccion": "CL 97 2 10",
+    "nombre_localidad": "CHAPINERO"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.09,
+     4.742
+    ]
+   },
+   "properties": {
+    "codigo_habilitacion": "1100190010",
+    "nombre_prestador": "IPS DEMO SUBA (FUERA DEL ÁREA)",
+    "direccion": "CL 145 91 19",
+    "nombre_localidad": "SUBA"
+   }
+  }
+ ]
+}

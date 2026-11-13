@@ -1,0 +1,11 @@
+# SAEC - dependencias (Python 3.10 a 3.13). Probado con las versiones indicadas en el manual.
+pandas>=2.2
+numpy>=1.26
+SQLAlchemy>=2.0
+psycopg2-binary>=2.9
+matplotlib>=3.8
+openpyxl>=3.1
+reportlab>=4.0
+bcrypt>=4.1
+tkintermapview>=1.29   # opcional: mapa OpenStreetMap (sin él se usa el mapa esquemático)
+pytest>=8.0            # solo para ejecutar las pruebas
