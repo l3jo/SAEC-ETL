@@ -5,7 +5,7 @@ pacientes de 18 a 59 años de la Subred Integrada de Servicios de Salud Norte de
 y generar automáticamente un **diagnóstico situacional** con priorización y acciones sugeridas.
 
 > El diagnóstico es **poblacional** (apoyo a la gestión en salud pública). No es un diagnóstico clínico
-> de pacientes y no reemplaza el criterio de los profesionales de la salud.
+> de pacientes y no reemplaza el criterio de los profesionales de la salud
 
 ## 1. Requisitos
 - Python 3.10 a 3.13 (con Tkinter, incluido en el instalador oficial de Windows).
